@@ -1,0 +1,4 @@
+﻿old_paramId,new_paramId,old_shortName,new_shortName,old_name,new_name,old_unit,new_unit,chemId,chem_shortName,chem_name,productDefinitionTemplateNumber
+210072,400000,pm1,mdens,Particulate matter d <= 1 um,Mass density,kg m**-3,kg m**-3,929,aer_pm_1,Particulate matter <= 1 um,50 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol
+210073,400000,pm2p5,mdens,Particulate matter d <= 2.5 um,Mass density,kg m**-3,kg m**-3,930,aer_pm_2p5,Particulate matter <= 2.5 um,50 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol
+210074,400000,pm10,mdens,Particulate matter d <= 10 um,Mass density,kg m**-3,kg m**-3,931,aer_pm_10,Particulate matter <= 10 um,50 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol
