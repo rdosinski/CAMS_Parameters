@@ -1,0 +1,2 @@
+﻿old_paramId,new_paramId,old_shortName,new_shortName,old_name,new_name,old_unit,new_unit,chemId,chem_shortName,chem_name,productDefinitionTemplateNumber
+210071,479000,kch4,lsroh,Methane loss rate due to radical hydroxyl (OH),Loss rate due to OH,s**-1,kg kg**-1 s**-1,404,CH4,Methane,40 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents
